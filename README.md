@@ -111,13 +111,12 @@ Enter Port: 5001
 ## 🧩 Visual Examples
 
 ### Ring Structure
-![Ring Example](ring_example.png)
+<img width="600" height="800" alt="ring_structure_4node drawio" src="https://github.com/user-attachments/assets/86f1e6da-d925-4483-8f1a-5681b09d7d6e" />
+
 
 ### Election Flow
-![Election Flow](election_flow.png)
+<img width="800" height="600" alt="election_flow_professional drawio" src="https://github.com/user-attachments/assets/f158f744-0999-4088-9dfa-3fa59ec4aaff" />
 
-### Failure Recovery
-![Failure Repair](failure_repair.png)
 
 ---
 
